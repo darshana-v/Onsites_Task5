@@ -13,3 +13,6 @@ If the client is run in a system different from that of server, change the ip ad
 Python 3.6 or greater
 threading (inbuilt in python standard library)
 sockets (inbuilt in python standard library)
+
+Status:
+Currently, there is a small problem with the server sending data to multiple clients when more than one clients join the application.
